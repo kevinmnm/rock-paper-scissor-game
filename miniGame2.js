@@ -9,7 +9,7 @@ var oScore = document.getElementById('opponentScore');
 var playerS = document.getElementById('playerScreen');
 var computerS = document.getElementById('computerScreen');
 var continueB = document.querySelector('#continue');
-var star = "<img src='star.png' alt='star' width='25px'/>";
+var star = "<img src='img/star.png' alt='star' width='25px'/>";
 var mySco = 0;
 var opSco = 0;
 yScore.innerHTML = '';
