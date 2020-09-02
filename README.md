@@ -12,7 +12,10 @@ Fun Rock Paper Scissor game! Play against AI built with JavaScript.
 
 <a name="resources"></a>
 ## Resources
-- RESOUCES USED
+- HTML
+- CSS
+- JavaScript
+- jQuery
 
 <a name="license"></a>
 ## License
